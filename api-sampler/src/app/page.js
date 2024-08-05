@@ -21,6 +21,11 @@ export default function Home() {
             Test API/JSON Response
           </h1>
         </Link>
+        <Link href="lovecalculator" passHref>
+          <div className="text-xl text-center text-blue-400 hover:text-blue-500 p-4 mx-auto">
+            Love Calculator
+          </div>
+        </Link>
       </div>
     </main>
   );
